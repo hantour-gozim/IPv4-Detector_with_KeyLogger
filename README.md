@@ -1,5 +1,5 @@
 # IPv4-Detector_with_KeyLogger
-This is a Python3 project that detect all the pressed keys and log them in a file and then dispaly all the pressed IPv4 addresses
+This is a Python3 project that detect all the pressed keys and log them in a file and then display all the pressed IPv4 addresses
 >>to install pynput :
 pip install pynput
 
